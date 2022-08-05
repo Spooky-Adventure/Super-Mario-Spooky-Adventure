@@ -18,7 +18,7 @@ This is what is here (or expected to be here :p). Expect this to become larger o
 
 - ~~Riivolution Patch~~
 - Resources
-    - Level Samples
+    - LevelSamples
     - WorldMaps
     - WorldMapTilesets
 - ~~Releases~~
