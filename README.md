@@ -12,7 +12,7 @@ If you want to follow development, join our [Discord Server][discord].
 *-MandyIGuess, 5th August 2022*
 
 ### What's Here
-This is what is here (or expected to be here :p). Expect this to become larger over time. Striked-out entries define what's to come at a later date.
+This is what is here (or expected to be here :p). Expect this to become larger over time. Striked-out entries define what's to come at a later date. Note that unused and cut content will be found in the "Unused" branch of the repository.
 
 #### Master Branch
 
